@@ -9,6 +9,6 @@
  - Make chess game only with the grids.
  - Discover the different positions in CSS.
  
- ## Expected result :
+ ## Expected result 
  
  ![](img/chessboard.png)
